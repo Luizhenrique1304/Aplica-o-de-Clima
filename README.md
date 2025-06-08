@@ -24,3 +24,7 @@ JavaScript (ES6)
 
 OpenWeatherMap API
 
+## Acesso
+
+Acesse o app de clima clicando [aqui](https://luizhenrique1304.github.io/Aplica-o-de-Clima/)
+
