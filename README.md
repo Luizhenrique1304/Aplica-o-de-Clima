@@ -20,7 +20,7 @@ HTML5
 
 CSS3 (estilo clima moderno e clean)
 
-JavaScript (ES6)
+JavaScript
 
 OpenWeatherMap API
 
